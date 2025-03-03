@@ -104,11 +104,11 @@
 ## 📩 **Let's Connect**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/sandip-gavandhare----7822887596--/">
-  
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <br>
+  <p align="left">
+ <a href="https://www.linkedin.com/in/sandip-gavandhare----7822887596--">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <br>>
   📧 Email: sandipgavandhare3@gmail.com
 </p>
 
