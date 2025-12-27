@@ -50,14 +50,6 @@
 
 ---
 
-## 🎓 Certifications 📜 ✔️
-
-- [Accenture Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Accenture_Data_Analyst.png)
-- [Deloitte Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Deloitte_Data_Analyst.png)
-- [Python Certification](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Python.png)
-- [Docker Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Docker_Certificate.png)
-
----
 
 ## 🔧 **Tools & Technologies**
 
